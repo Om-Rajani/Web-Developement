@@ -67,9 +67,8 @@ h2{
 }
 .wave{
     margin-top: 323px;
-    width: 1902px;
     height: 50px;
-    position: relative;
+    width: 100%;
 }
 .skill-row{
     width: 50%;
